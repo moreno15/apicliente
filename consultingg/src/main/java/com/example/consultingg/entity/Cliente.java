@@ -30,7 +30,7 @@ public class Cliente  extends Base{
 	
 	
 	@Column(name="fecha_nacimiento")
-	private Date fecha_nacimiento;
+	private String fecha_nacimiento;
 	
 	@Column(name="direccion")
 	private String direccion;

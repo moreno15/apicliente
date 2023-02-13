@@ -13,4 +13,5 @@ import com.example.consultingg.services.ClienteServiceImpl;
 	
 public class ClienteController extends BaseControllerImpl<Cliente, ClienteServiceImpl>{
 
-}
+} 
+ 
